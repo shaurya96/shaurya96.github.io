@@ -52,12 +52,12 @@ medium: jain.shaurya96
 email: jain.shaurya96@gmail.com
 
 authors:
-    johndoe:
-        name: John Doe
+    shauryajain:
+        name: Shaurya Jain
         bio: I don't like defining myself.I just am.
-        external-image: false
-        picture: assets/images/profile.jpg
-        twitter: johndoe
+        external-image: true
+        picture: assets/images/16111286_1279300622116795_675479704_n.jpg
+        # twitter: johndoe
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
