@@ -7,12 +7,12 @@ description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
+external-image: true
 picture: assets/images/16111286_1279300622116795_675479704_n.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: false
+resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
@@ -35,7 +35,7 @@ highlighter: rouge
 disqus: mydisqus
 
 # if you don't have any of social below, comment the line
-facebook: https://www.facebook.com/shaurya.jain.714
+facebook: /shaurya.jain.714
 twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
@@ -43,7 +43,7 @@ twitter: mytwitter
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: https://github.com/shaurya96
+github: /shaurya96
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
